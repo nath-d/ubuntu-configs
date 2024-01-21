@@ -1,0 +1,23 @@
+[window]
+opacity = 0.85
+dynamic_padding = true
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"
+
+[window.padding]
+x = 2
+y = 2
+
+[colors.primary]
+foreground = "#f8f8f2"
+background = "#000000"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "FiraCode Nerd Font Ret"
+style = "Retina"
+#family = "Ubuntu Mono"
